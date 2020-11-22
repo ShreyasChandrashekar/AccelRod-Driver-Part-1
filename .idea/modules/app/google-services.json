@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970434977731",
+    "firebase_url": "https://accelrod-42e4e.firebaseio.com",
+    "project_id": "accelrod-42e4e",
+    "storage_bucket": "accelrod-42e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970434977731:android:a430dc9e62a1e90c9a6776",
+        "android_client_info": {
+          "package_name": "com.example.accelrod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970434977731-90i9hq2a4l8ajke9rrfic1v2ghehhej7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accelrod",
+            "certificate_hash": "2465787da54a49333d82a301885e3a239e76bd3c"
+          }
+        },
+        {
+          "client_id": "970434977731-k7psot0f4v7nrtbl2ibguuidtg1sksfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kTT-dGjTPIVYH5xR1Ut9w0iwAPdeI_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970434977731-k7psot0f4v7nrtbl2ibguuidtg1sksfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
